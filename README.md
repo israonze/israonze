@@ -1,34 +1,45 @@
-### 👋 ¡Hola! Soy Israel
-💡 Economista especializado en ciencia de datos y finanzas.  
-📊 Trabajo en análisis financiero y precios de transferencia en PwC.  
-📍 Apasionado por los datos abiertos y su impacto en políticas públicas.  
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-### 🔧 Tecnologías y herramientas:
-- 📈 Python, R, SQL, Excel
-- 📊 Visualización: ggplot2, matplotlib, Power BI
-- 💻 GitHub, RStudio, VS Code
+###
 
-### 🚀 Proyectos destacados:
-- 📌 [Análisis de datos del INEGI](https://github.com/IsraelData/INEGI-Project)
-- 📌 [Modelo financiero para inversiones](https://github.com/IsraelData/FinanceModel)
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
 
-📫 **Contacto**:  
-[LinkedIn](www.linkedin.com/in/jorge-israel-acevedo-benítez) | [Email](mailto:jiacevedo@hotmail.com)
+###
 
-![GitHub followers](https://img.shields.io/github/followers/IsraelData?style=social)
-![GitHub stars](https://img.shields.io/github/stars/IsraelData?style=social)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israonze&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=israonze&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israonze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!--
-**israonze/israonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="248" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlwYnk2YnZ0dXB4aGV4MWhsM3J3bXh6emJxcmZzemJndGI2Mmh2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYRhh3HDLdGphhC/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/israonze/israonze/output/snake.svg" alt="Snake animation" />
+
+###
