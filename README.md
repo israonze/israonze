@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Israel Acevedo and I'm an Economist, from Mexico City....</h2>
+<h2 align="left">Hi 👋! My name is Israel and I'm an Economist, from Mexico City....</h2>
 
 ###
 
