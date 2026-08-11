@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+
 Economista enfocado en el análisis de datos y en la transformación de información en conocimiento útil para la toma de decisiones. Cuento con experiencia en el procesamiento, limpieza, transformación y análisis de datos, así como en el desarrollo de herramientas y soluciones automatizadas utilizando Python, SQL, Excel y Power BI. Mi formación en economía me permite combinar el análisis cuantitativo y la interpretación de información con herramientas tecnológicas para identificar patrones, tendencias y oportunidades de mejora. En este perfil comparto proyectos relacionados con análisis de datos, automatización de procesos, Business Intelligence y soluciones aplicadas principalmente al ámbito financiero.<br>
 
 
